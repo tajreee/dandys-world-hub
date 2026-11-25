@@ -1,0 +1,11 @@
+{
+  "name": "DWAuthorizedTestHub",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src"
+      }
+    }
+  }
+}
